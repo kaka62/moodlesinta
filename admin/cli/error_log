@@ -1,0 +1,16 @@
+[05-Jun-2021 00:18:59 America/New_York] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[05-Jun-2021 00:18:59 America/New_York] Exception ignored in shutdown function Closure::__invoke: Error writing to database
+[05-Jun-2021 00:19:00 America/New_York] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[03-Jul-2021 09:17:02 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[03-Jul-2021 09:17:02 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[17-Jul-2021 02:17:11 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[17-Jul-2021 02:17:11 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[08-Aug-2021 17:18:06 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[08-Aug-2021 17:18:10 Asia/Jakarta] Exception ignored in shutdown function Closure::__invoke: Error writing to database
+[08-Aug-2021 17:18:10 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[25-Sep-2021 13:17:02 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[25-Sep-2021 13:17:06 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[26-Sep-2021 05:17:02 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[26-Sep-2021 05:17:02 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[09-Oct-2021 12:17:03 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
+[09-Oct-2021 12:17:03 Asia/Jakarta] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error reading from database
